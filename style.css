@@ -46,6 +46,8 @@ button {
 .main-head {
   background-color: #131c27;
   color: white;
+  position: sticky;
+  top: 0px;
 }
 nav {
   min-height: 10vh;
